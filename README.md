@@ -1,4 +1,4 @@
-# ITAI2373-NewsBot-Midterm
+# NewsBot--BetaVersion (formerly ITAI2373-NewsBot-Midterm)
 
 An NLP pipeline that ingests raw BBC news articles, processes them through a series of text analysis stages, and classifies them by category using machine learning models.
 
